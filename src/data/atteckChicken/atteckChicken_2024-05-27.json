@@ -1,0 +1,416 @@
+[
+    {
+        "Menu": "[남성고객 재주문 1위] 시카고치폴레 순살치킨매운맛1단계N",
+        "Sub": "치포틀레고추는 훈제하여 건조시킨 할라페뇨 고추이며, 멕시코식 미국 요리, 텍스멕스, 미국 남서부 요리와 같이 멕시코 요리에 주로 사용하는 고추로 치킨남이 직접 개발하였습니다.",
+        "Price": "19,900원",
+        "img": "https://naverbooking-phinf.pstatic.net/20240426_160/17140588557433OSp4_JPEG/IMG_2484.jpg?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "치즈슈프림 치킨N",
+        "Sub": "치즈슈프림 소스는 체다 치즈와 컴파운드 치즈를 결합하여, 더욱 부드러운 치즈의 진한 맛을 느껴보실 수 있는 프리미엄 소스이며, 치킨남이 오랜시간동안 고덕신도시 꼬꼬마고객님들과 여성고객님들께 자문을 받아 개발한 치킨입니다.",
+        "Price": "19,900원",
+        "img": "https://naverbooking-phinf.pstatic.net/20240523_44/1716463974584ydyAu_JPEG/IMG_2550.jpg?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "매콤와사비 치킨매운맛1단계N",
+        "Sub": "후라이드 치킨에 생양파를 갈아서 올린 후 매콤한 와사비 소스로 마무리를 하여 아주 깔끔하고 신선한 맛을 자랑합니다.",
+        "Price": "20,900원",
+        "img": "https://naverbooking-phinf.pstatic.net/20240523_86/1716463998502XCJ04_JPEG/IMG_2869.jpg?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "볼케이노 치킨매운맛3단계N",
+        "Sub": "미친듯이 매우며 한번 먹으면 절대로 용서가 되지 않는 화산과 같이 불타오르고 그 뜨거운 매력에 빠지는 매운맛의 절대 지존입니다.",
+        "Price": "19,900원",
+        "img": "https://naverbooking-phinf.pstatic.net/20240517_43/1715874953262XHTAK_JPEG/P20240515_005919843_E2732C68-0B90-47DA-BC98-06251DB772AB.JPG?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "청양마요 치킨매운맛1단계N",
+        "Sub": "후라이드 치킨에 생양파를 갈아서 올린 후 청양마요 소스로 마무리를 하여 아주 깔끔하고 신선한 맛을 자랑합니다.",
+        "Price": "20,900원",
+        "img": "https://naverbooking-phinf.pstatic.net/20240523_55/1716464015561Bx131_JPEG/IMG_2868.jpg?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "추가] 치즈포테이토스틱 1개N",
+        "Sub": "",
+        "Price": "2,500원",
+        "img": "https://naverbooking-phinf.pstatic.net/20240507_222/1715087652537WGTUC_PNG/%C6%F7%C5%D7%C0%CC%C5%E4%BD%BA%C6%BD.png?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "[풍경채 재주문 1위] 치파포 세트 얼티밋대표",
+        "Sub": "고객님이 드시고 싶은 후라이드 치킨의 종류 10가지 선택 가능하며, 기본 나쵸와 살사소스를 무료로 제공합니다. 후라이드 치킨의 종류를 참고하셔서 10가지를 선택하시면 됩니다.",
+        "Price": "34,900원",
+        "img": "https://naverbooking-phinf.pstatic.net/20240425_46/1714052770228OAutM_JPEG/IMG_1573_%282%29.JPG?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "[호반1차 재주문 1위] 치파포 세트 V5대표",
+        "Sub": "고객님이 드시고 싶은 후라이드 치킨의 종류 5가지 선택가능하며, 기본 나쵸와 살사소스를 무료로 제공합니다. 후라이드 치킨의 종류를 참고하셔서 5가지를 선택하시면 됩니다.",
+        "Price": "28,900원",
+        "img": "https://naverbooking-phinf.pstatic.net/20240425_149/17140518224017jprH_PNG/%C4%A1%C6%C4%C6%F7v5.png?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "[로제비앙 재주문 1위] 치파포 세트 V3대표",
+        "Sub": "고객님이 드시고 싶은 후라이드 치킨의 종류 5가지 선택가능하며, 기본 나쵸와 살사소스를 무료로 제공합니다. 후라이드 치킨의 종류를 참고하셔서 5가지를 선택하시면 됩니다.",
+        "Price": "22,900원",
+        "img": "https://naverbooking-phinf.pstatic.net/20240425_180/1714035589378ipQuz_PNG/%C4%A1%C6%C4%C6%F7v3.png?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "[풍경채 재주문 1위] 치파포 세트 얼티밋대표",
+        "Sub": "고객님이 드시고 싶은 후라이드 치킨의 종류 10가지 선택 가능하며, 기본 나쵸와 살사소스를 무료로 제공합니다. 후라이드 치킨의 종류를 참고하셔서 10가지를 선택하시면 됩니다.",
+        "Price": "34,900원",
+        "img": "https://naverbooking-phinf.pstatic.net/20240425_46/1714052770228OAutM_JPEG/IMG_1573_%282%29.JPG?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "[호반1차 재주문 1위] 치파포 세트 V5대표",
+        "Sub": "고객님이 드시고 싶은 후라이드 치킨의 종류 5가지 선택가능하며, 기본 나쵸와 살사소스를 무료로 제공합니다. 후라이드 치킨의 종류를 참고하셔서 5가지를 선택하시면 됩니다.",
+        "Price": "28,900원",
+        "img": "https://naverbooking-phinf.pstatic.net/20240425_149/17140518224017jprH_PNG/%C4%A1%C6%C4%C6%F7v5.png?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "[로제비앙 재주문 1위] 치파포 세트 V3대표",
+        "Sub": "고객님이 드시고 싶은 후라이드 치킨의 종류 5가지 선택가능하며, 기본 나쵸와 살사소스를 무료로 제공합니다. 후라이드 치킨의 종류를 참고하셔서 5가지를 선택하시면 됩니다.",
+        "Price": "22,900원",
+        "img": "https://naverbooking-phinf.pstatic.net/20240425_180/1714035589378ipQuz_PNG/%C4%A1%C6%C4%C6%F7v3.png?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "[디에트르 재주문 1위] 4가지 맛 세트",
+        "Sub": "고객님께서 가장 좋아하시는 후라이드 치킨 4가지 맛을 선택해 주세유!! 1가지 맛이 반 마리씩 선택되며, 2마리 양보다 조금 더 많이 제공해드리니 성인 4명이 맥주 안주로 인기가 많습니다.",
+        "Price": "32,900원",
+        "img": "https://naverbooking-phinf.pstatic.net/20240425_194/1714054942980fTu8c_PNG/4%B1%B8_%C5%BE%BA%E4.png?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "[리슈빌 재주문 1위] 3가지 맛 세트",
+        "Sub": "고객님께서 가장 좋아하시는 후라이드 치킨 3가지 맛을 선택해 주세유!! 1가지 맛이 반 마리씩 선택되며, 1마리 반의 양보다 조금 더 많이 제공해드리니 성인 3명이 맥주 안주로 인기가 많습니다.",
+        "Price": "25,900원",
+        "img": "https://naverbooking-phinf.pstatic.net/20240426_119/1714057533741IRPhX_PNG/3%B1%B8_%C5%BE%BA%E4.png?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "[자연앤자이 재주문 1위] 2가지 맛 세트",
+        "Sub": "고객님께서 가장 좋아하시는 후라이드 치킨 2가지 맛을 선택해 주세유!! 1가지 맛이 반 마리씩 선택되며, 후라이드반을 선택하실 경우 단품보다 비싸게 측정되니 꼭 후라이드 반은 단품으로 선택하시는게 더 저렴하게 드릴 수 있습니다.",
+        "Price": "20,900원",
+        "img": "https://naverbooking-phinf.pstatic.net/20240426_210/1714057580888lkVYT_PNG/2%B1%B8_%C5%BE%BA%E4.png?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "[남성고객 재주문 1위] 시카고치폴레 순살치킨매운맛1단계N",
+        "Sub": "치포틀레고추는 훈제하여 건조시킨 할라페뇨 고추이며, 멕시코식 미국 요리, 텍스멕스, 미국 남서부 요리와 같이 멕시코 요리에 주로 사용하는 고추로 치킨남이 직접 개발하였습니다.",
+        "Price": "19,900원",
+        "img": "https://naverbooking-phinf.pstatic.net/20240426_160/17140588557433OSp4_JPEG/IMG_2484.jpg?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "인도카레가루 치킨매운맛1단계",
+        "Sub": "이국적이고 매력적인 인도커리 시즈닝에 깔끔하면서 복합적인 풍미가 나는 치킨이며, 남성분들에게 인기가 많습니다.",
+        "Price": "19,900원",
+        "img": "https://naverbooking-phinf.pstatic.net/20240507_208/1715079548236atAm8_PNG/%BD%BA%C6%C4%C0%CC%BD%C3%C4%BF%B8%AE.png?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "볼케이노 치킨매운맛3단계N",
+        "Sub": "미친듯이 매우며 한번 먹으면 절대로 용서가 되지 않는 화산과 같이 불타오르고 그 뜨거운 매력에 빠지는 매운맛의 절대 지존입니다.",
+        "Price": "19,900원",
+        "img": "https://naverbooking-phinf.pstatic.net/20240517_43/1715874953262XHTAK_JPEG/P20240515_005919843_E2732C68-0B90-47DA-BC98-06251DB772AB.JPG?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "매운불닭 치킨매운맛3단계",
+        "Sub": "기존에 있던 본사 레드빌소스에 불닭소스를 조합하였으며, 후폭풍이 강하니 맵찌리분들은 절대로 드시면 안됩니다.",
+        "Price": "19,900원",
+        "img": "https://naverbooking-phinf.pstatic.net/20240507_249/1715079795718NwnGS_PNG/%B7%B9%B5%E5%BA%F4.png?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "송송파닭 치킨",
+        "Sub": "기존의 본사소스는 너무 짜서 고덕국제신도시의 특성에 맞지 않아 치킨남이 직접 개발한 파채소스로 전국에서 유일하게 고덕국제신도시점만 존재합니다.",
+        "Price": "20,900원",
+        "img": "https://naverbooking-phinf.pstatic.net/20240507_130/1715079698427WJjBT_PNG/%BC%DB%BC%DB%C6%C4%B4%DF.png?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "마라불 치킨매운맛1단계",
+        "Sub": "마라불소스는 중국정통 마라소스를 국내산 꿀과 함께 불맛을 조합한 트렌디한 맛을 자랑하며, 치킨남이 중식을 공부했을때 개발한 치킨소스 입니다.",
+        "Price": "19,900원",
+        "img": "https://naverbooking-phinf.pstatic.net/20240507_247/1715080843215HYr3o_JPEG/IMG_2547.jpg?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "깐풍기 치킨매운맛1단계",
+        "Sub": "깐풍기 치킨소스는 중국의 깐풍기를 모티브로 개발하여, 불에 살짝 조려 조리해 독창적인 새콤함과 매콤함이 감칠맛을 자아내 강력한 중독성을 자랑하는 치킨남이 개발한 시그니처 치킨입니다.",
+        "Price": "19,900원",
+        "img": "https://naverbooking-phinf.pstatic.net/20240507_70/1715080334658i3dcG_JPEG/%B1%F1%C7%B3%B1%E2_%C3%E3%B4%DF.jpg?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "[여성고객 재주문 1위] 생양파차퍼 치킨",
+        "Sub": "후라이드 치킨에 생양파를 갈아서 올린 후 화이트크리미 소스로 마무리를 하여 아주 깔끔하고 신선한 맛을 자랑합니다.",
+        "Price": "20,900원",
+        "img": "https://naverbooking-phinf.pstatic.net/20240507_117/1715081312240GL4Xn_PNG/%C4%A1%C6%FA%B6%F3.png?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "매콤와사비 치킨매운맛1단계N",
+        "Sub": "후라이드 치킨에 생양파를 갈아서 올린 후 매콤한 와사비 소스로 마무리를 하여 아주 깔끔하고 신선한 맛을 자랑합니다.",
+        "Price": "20,900원",
+        "img": "https://naverbooking-phinf.pstatic.net/20240523_86/1716463998502XCJ04_JPEG/IMG_2869.jpg?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "청양마요 치킨매운맛1단계N",
+        "Sub": "후라이드 치킨에 생양파를 갈아서 올린 후 청양마요 소스로 마무리를 하여 아주 깔끔하고 신선한 맛을 자랑합니다.",
+        "Price": "20,900원",
+        "img": "https://naverbooking-phinf.pstatic.net/20240523_55/1716464015561Bx131_JPEG/IMG_2868.jpg?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "고추블링 치킨매운맛1단계",
+        "Sub": "고추의 알싸하고 톡 쏘는 매운맛과 맛있는 새콤함에 은은한 달콤함이 더해진 치킨입니다.",
+        "Price": "19,900원",
+        "img": "https://naverbooking-phinf.pstatic.net/20240507_253/1715081885091N95Gd_PNG/%B0%ED%C3%DF%BA%ED%B8%B5.png?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "간장 치킨",
+        "Sub": "",
+        "Price": "19,900원",
+        "img": "https://naverbooking-phinf.pstatic.net/20240507_280/1715081795709we2sj_PNG/%BD%EE%C0%CC%BE%CB%B8%AE%BF%C0.png?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "[꼬꼬마고객 재주문 1위] 오리지날양념 치킨",
+        "Sub": "기존에 본사에서 제공하는 양념치킨소스가 매워서 고덕국제신도시 특성상 맞지 않다고 여겨 제가 직접 개발한 양념치킨입니다.",
+        "Price": "19,900원",
+        "img": "https://naverbooking-phinf.pstatic.net/20240507_18/1715083606297BuFiH_PNG/%BF%C0%B8%AE%C1%F6%B3%AF%BE%E7%B3%E4.png?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "치즈슈프림 치킨N",
+        "Sub": "치즈슈프림 소스는 체다 치즈와 컴파운드 치즈를 결합하여, 더욱 부드러운 치즈의 진한 맛을 느껴보실 수 있는 프리미엄 소스이며, 치킨남이 오랜시간동안 고덕신도시 꼬꼬마고객님들과 여성고객님들께 자문을 받아 개발한 치킨입니다.",
+        "Price": "19,900원",
+        "img": "https://naverbooking-phinf.pstatic.net/20240523_44/1716463974584ydyAu_JPEG/IMG_2550.jpg?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "화이트크림 치킨",
+        "Sub": "부드러운 화이트 크림의 환상 궁합, 꼬꼬마 고객님들이 한번 먹으면 인생치킨이 되어버리는 치킨이며, 꼬꼬마 고객님들께 가장 인기가 많은 치킨입니다.",
+        "Price": "19,900원",
+        "img": "https://naverbooking-phinf.pstatic.net/20240507_162/1715083799556rp6Op_PNG/%C8%AD%C0%CC%C6%AE%C5%A9%B8%B2.png?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "후라이드 치킨",
+        "Sub": "32가지의 천연재료로 만든 파우더와 생닭 염지는 치킨남이 직접하고 있으며, 튀김옷은 얇고 겉바속촉의 대장입니다.",
+        "Price": "17,900원",
+        "img": "https://naverbooking-phinf.pstatic.net/20240507_56/1715083998444Eommp_PNG/%C8%C4%B6%F3%C0%CC%B5%E5.png?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "마늘 치킨",
+        "Sub": "부드러운 마늘소스의 깊은 풍미와 마늘칩의 알싸한 바삭함에 무한반복 마늘맛에 빠져드는 치킨입니다. 아이들에게도 인기가 많습니다.",
+        "Price": "19,900원",
+        "img": "https://naverbooking-phinf.pstatic.net/20240507_285/1715084107534xumOw_PNG/%B0%A5%B8%AF%B4%D9%C0%CC%BA%EA.png?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "마늘 치킨",
+        "Sub": "부드러운 마늘소스의 깊은 풍미와 마늘칩의 알싸한 바삭함에 무한반복 마늘맛에 빠져드는 치킨입니다. 아이들에게도 인기가 많습니다.",
+        "Price": "19,900원",
+        "img": "https://naverbooking-phinf.pstatic.net/20240507_133/1715084131972sfis0_PNG/%B0%A5%B8%AF%B4%D9%C0%CC%BA%EA.png?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "매콤치동 BBQ+우동매운맛1단계",
+        "Sub": "천연 특제 4가지 소스로 요리한 순살 BBQ 한마리와 탱글 쫄깃 비빔우동까지 한번에 오븐기에 조리하며, 떡사리와 대파를 듬뿍 넣어드립니다.",
+        "Price": "21,900원",
+        "img": "https://naverbooking-phinf.pstatic.net/20240507_102/1715086334612jfJ3A_PNG/%C4%A1%B5%BF.png?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "매콤트러플 BBQ매운맛1단계",
+        "Sub": "화이트한 두유소스와 트러플 크림 오일로 맛을 낸 BBQ 소스로 매콤한 맛과 함께 크리미한 맛을 함께 즐기실 수 있습니다.",
+        "Price": "19,900원",
+        "img": "https://naverbooking-phinf.pstatic.net/20240507_269/1715086649536azEw7_PNG/%B0%F8%B0%DD%C6%AE%B7%AF%C7%C3-%B9%D9%BA%A3%C5%A5.png?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "매콤칠리 BBQ매운맛1단계",
+        "Sub": "캡사이신을 사용하지 않아 맛잇게 매운 스모크칠리 BBQ이며, 치킨남이 직접 연구하고 조리하여 개발하였습니다.",
+        "Price": "19,900원",
+        "img": "https://naverbooking-phinf.pstatic.net/20240507_265/1715086914272ebiko_PNG/%BD%BA%B8%F0%C5%A9%C4%A5%B8%AE-%B9%D9%BA%A3%C5%A5.png?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "매콤 양념 BBQ",
+        "Sub": "깊고 진한 양념 BBQ는 감히 BBQ 중에서 최고라 자부하는 완벽한 메뉴이며, 매콤한 양념소스가 BBQ의 맛을 더욱 감칠맛나게 합니다.",
+        "Price": "19,900원",
+        "img": "https://naverbooking-phinf.pstatic.net/20240507_236/1715086979066fh32r_PNG/%B0%F8%B0%DD%BE%E7%B3%E4-%B9%D9%BA%A3%C5%A5.png?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "매콤 간장 BBQ",
+        "Sub": "전통 텍사스 간장 BBQ소스와 마늘로 맛을 냈으며, 누구나 좋아하는 단짠 메뉴입니다.",
+        "Price": "19,900원",
+        "img": "https://naverbooking-phinf.pstatic.net/20240507_38/1715087250366qtMXi_PNG/%B0%F8%B0%DD%B0%A3%C0%E5-%B9%D9%BA%A3%C5%A5.png?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "추가] 치즈포테이토스틱 1개N",
+        "Sub": "",
+        "Price": "2,500원",
+        "img": "https://naverbooking-phinf.pstatic.net/20240507_222/1715087652537WGTUC_PNG/%C6%F7%C5%D7%C0%CC%C5%E4%BD%BA%C6%BD.png?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "추가] 치즈양념포테이토",
+        "Sub": "",
+        "Price": "3,500원",
+        "img": "https://naverbooking-phinf.pstatic.net/20240508_282/1715095094785bcBAJ_JPEG/%B4%D9%BF%EE%B7%CE%B5%E5_%2813%29.jpg?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "추가] 양념:레드 치즈밥",
+        "Sub": "",
+        "Price": "6,000원",
+        "img": "https://naverbooking-phinf.pstatic.net/20240507_207/1715087782888Vn85t_PNG/%C4%A1%B9%E4%B7%B9%B5%E5.png?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "추가] 간장:블랙 치즈밥",
+        "Sub": "",
+        "Price": "6,000원",
+        "img": "https://naverbooking-phinf.pstatic.net/20240507_238/1715087805878Ezbyu_PNG/%C4%A1%B9%E4%B7%B9%B5%E5.png?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "추가] 자연산치즈볼 4개",
+        "Sub": "",
+        "Price": "4,500원",
+        "img": "https://naverbooking-phinf.pstatic.net/20240507_161/1715088043066yon5F_PNG/%C0%DA%BF%AC%BB%EA-%C4%A1%C1%EE%BA%BC.png?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "추가] 자연산치즈볼 2개",
+        "Sub": "",
+        "Price": "2,500원",
+        "img": "https://naverbooking-phinf.pstatic.net/20240507_156/1715088026347ycPdJ_PNG/%C0%DA%BF%AC%BB%EA-%C4%A1%C1%EE%BA%BC.png?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "추가] 미니핫도그 4개",
+        "Sub": "",
+        "Price": "5,000원",
+        "img": "https://naverbooking-phinf.pstatic.net/20240507_204/1715088058829TOGEX_PNG/%C2%FB%B5%B5%B1%D74%B0%B3.png?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "추가] 미니핫도그 2개",
+        "Sub": "",
+        "Price": "3,000원",
+        "img": "https://naverbooking-phinf.pstatic.net/20240507_199/1715087974267tkTbm_PNG/%C2%FB%B5%B5%B1%D74%B0%B3.png?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "추가] 양념우동사리",
+        "Sub": "",
+        "Price": "3,000원",
+        "img": "https://naverbooking-phinf.pstatic.net/20240523_110/1716464036056LEhxC_JPEG/P20240517_220921107_A90DBC71-48E1-47B1-BD9F-9BF649C949AA.JPG?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "추가] 소떡소떡 1개",
+        "Sub": "",
+        "Price": "3,000원",
+        "img": "https://naverbooking-phinf.pstatic.net/20240507_62/1715088185153altaM_PNG/%BC%D2%B6%B1%BC%D2%B6%B1.png?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "나쵸/체다치즈소스",
+        "Sub": "",
+        "Price": "2,500원",
+        "img": "https://naverbooking-phinf.pstatic.net/20240508_76/1715094616614eN3BJ_JPEG/%B4%D9%BF%EE%B7%CE%B5%E5_%2810%29.jpg?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "파채/파닭소스",
+        "Sub": "",
+        "Price": "3,500원",
+        "img": "https://naverbooking-phinf.pstatic.net/20240523_31/1716464065810BFT4R_JPEG/P20240517_220927339_331F833B-600D-4028-98C1-EC599CBB31A7.JPG?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "치킨소스",
+        "Sub": "순살치킨의 모든 소스를 개별구매 가능합니다.",
+        "Price": "1,000원",
+        "img": "https://naverbooking-phinf.pstatic.net/20240523_42/1716464089468QCSu8_JPEG/P20240517_220934639_92BACF69-410C-4252-97FD-50CB0513C5A7.JPG?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "추가] 치킨무",
+        "Sub": "",
+        "Price": "700원",
+        "img": "https://naverbooking-phinf.pstatic.net/20240508_131/1715094249412o99Dj_JPEG/%B4%D9%BF%EE%B7%CE%B5%E5_%287%29.jpg?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "추가] 즉석밥",
+        "Sub": "",
+        "Price": "2,000원",
+        "img": "https://naverbooking-phinf.pstatic.net/20240508_133/1715094289739vQVAJ_JPEG/%B4%D9%BF%EE%B7%CE%B5%E5_%288%29.jpg?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "추가] 코카콜라 1.25L",
+        "Sub": "",
+        "Price": "3,500원",
+        "img": "https://naverbooking-phinf.pstatic.net/20240508_14/1715094176776sfU3M_JPEG/%B4%D9%BF%EE%B7%CE%B5%E5_%285%29.jpg?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "추가] 펩시콜라 1.25L",
+        "Sub": "",
+        "Price": "3,000원",
+        "img": "https://naverbooking-phinf.pstatic.net/20240508_101/1715094161519E1OOO_JPEG/%B4%D9%BF%EE%B7%CE%B5%E5_%286%29.jpg?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "추가] 코카콜라제로 500ml",
+        "Sub": "",
+        "Price": "2,500원",
+        "img": "https://naverbooking-phinf.pstatic.net/20240508_204/1715094070406xxBb8_JPEG/%B4%D9%BF%EE%B7%CE%B5%E5_%284%29.jpg?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "추가] 펩시제로콜라 500ml",
+        "Sub": "",
+        "Price": "2,000원",
+        "img": "https://naverbooking-phinf.pstatic.net/20240507_9/17150939020579hyWu_JPEG/%B4%D9%BF%EE%B7%CE%B5%E5_%281%29.jpg?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "추가] 칠성사이다 500ml",
+        "Sub": "",
+        "Price": "2,500원",
+        "img": "https://naverbooking-phinf.pstatic.net/20240507_106/1715093963065rcsdu_JPEG/%B4%D9%BF%EE%B7%CE%B5%E5_%282%29.jpg?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "추가] 펩시콜라 500ml",
+        "Sub": "",
+        "Price": "2,000원",
+        "img": "https://naverbooking-phinf.pstatic.net/20240507_239/1715093885173sU3D0_JPEG/%B4%D9%BF%EE%B7%CE%B5%E5.jpg?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "추가] 코카콜라 500ml",
+        "Sub": "",
+        "Price": "2,500원",
+        "img": "https://naverbooking-phinf.pstatic.net/20240508_46/1715094057154223Di_JPEG/%B4%D9%BF%EE%B7%CE%B5%E5_%283%29.jpg?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "[포장] 테라생맥주 1000cc",
+        "Sub": "",
+        "Price": "7,000원",
+        "img": "https://naverbooking-phinf.pstatic.net/20240517_47/1715877855181cjIyP_JPEG/IMG_6453.jpg?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "카스 병맥주",
+        "Sub": "",
+        "Price": "5,000원",
+        "img": "https://naverbooking-phinf.pstatic.net/20240517_239/1715878044305bpVIv_JPEG/%B4%D9%BF%EE%B7%CE%B5%E5_%2817%29.jpg?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "켈리 병맥주",
+        "Sub": "",
+        "Price": "5,000원",
+        "img": "https://naverbooking-phinf.pstatic.net/20240517_111/1715878027155KwNJr_JPEG/IMG_5978.jpg?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "테라 병맥주",
+        "Sub": "",
+        "Price": "5,000원",
+        "img": "https://naverbooking-phinf.pstatic.net/20240517_71/1715878064432ghljc_JPEG/%B4%D9%BF%EE%B7%CE%B5%E5_%2816%29.jpg?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "참이슬오리지널",
+        "Sub": "",
+        "Price": "5,000원",
+        "img": "https://naverbooking-phinf.pstatic.net/20240517_193/1715878003868Vl4zV_JPEG/IMG_6889.jpg?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "참이슬후레쉬",
+        "Sub": "",
+        "Price": "5,000원",
+        "img": "https://naverbooking-phinf.pstatic.net/20240517_129/1715877982917vGP1b_JPEG/7.jpg?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "진로이즈벡",
+        "Sub": "",
+        "Price": "5,000원",
+        "img": "https://naverbooking-phinf.pstatic.net/20240517_221/1715877949526LRVAT_JPEG/0000809303_002_20220427105901881.jpeg?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "처음처럼",
+        "Sub": "",
+        "Price": "5,000원",
+        "img": "https://naverbooking-phinf.pstatic.net/20240517_167/1715877923322kETyr_JPEG/CF%C1%A6%B4%CF.%B7%D4%B5%A5%C4%A5%BC%BA%C1%D6%B7%F9.%C3%B3%C0%BD%C3%B3%B7%B3.TPO%C6%ED17.jpg?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "새로",
+        "Sub": "",
+        "Price": "5,000원",
+        "img": "https://naverbooking-phinf.pstatic.net/20240517_233/1715877889824DTMi4_JPEG/77271b5a1ce94270ae7d24d0be51e3bf%A3%DF377456365%A3%DF329910879570258%A3%DF8561346268226238122%A3%DFn.jpg?type=f220_220_60_sharpen"
+    }
+]

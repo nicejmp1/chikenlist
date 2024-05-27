@@ -1,0 +1,59 @@
+#header {
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 260px;
+    height: 100%;
+    z-index: 10000;
+    background-color: #1b1b1e;
+    transition: all 0.6s;
+
+}
+
+#main {
+    max-width: 2000px;
+    min-height: 100vh;
+    margin: 0 auto;
+    padding-left: 260px;
+    background-color: #111;
+
+}
+
+#footer {
+    text-align: center;
+    background-color: #222;
+    padding: 20px 20px 20px 260px;
+}
+
+#top100,
+#Suggestion,
+#daneclist,
+#hiphop,
+#indie {
+    padding: 40px;
+
+    h2 {
+        margin-bottom: 1rem;
+        font-size: 1.25rem;
+    }
+}
+
+@media (max-width: 960px) {
+    #header {
+        left: -260px;
+        transition: all 0.6s;
+    }
+
+    #main {
+        padding-left: 0;
+        margin-top: 80px;
+    }
+
+    #top100,
+    #Suggestion,
+    #daneclist,
+    #hiphop,
+    #indie {
+        padding: 20px;
+    }
+}
